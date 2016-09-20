@@ -1,2 +1,8 @@
-# testPrograms
-This program show how to make simple pingpong game using pygame
+# PyGame-Games
+
+Some simple games made on pygame by me :)
+
+Includes:
+
+1) Pingpong
+2) 2 Cars
